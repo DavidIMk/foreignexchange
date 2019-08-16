@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/foreignexchange/static/css/main.19393e92.chunk.css",
+    "main.js": "/foreignexchange/static/js/main.24a84839.chunk.js",
+    "main.js.map": "/foreignexchange/static/js/main.24a84839.chunk.js.map",
+    "runtime~main.js": "/foreignexchange/static/js/runtime~main.5058322a.js",
+    "runtime~main.js.map": "/foreignexchange/static/js/runtime~main.5058322a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/foreignexchange/static/css/2.266e55a5.chunk.css",
+    "static/js/2.5f8e27fa.chunk.js": "/foreignexchange/static/js/2.5f8e27fa.chunk.js",
+    "static/js/2.5f8e27fa.chunk.js.map": "/foreignexchange/static/js/2.5f8e27fa.chunk.js.map",
+    "index.html": "/foreignexchange/index.html",
+    "precache-manifest.a5a85706a6ff3aaf87b26f4e2d990bc7.js": "/foreignexchange/precache-manifest.a5a85706a6ff3aaf87b26f4e2d990bc7.js",
+    "service-worker.js": "/foreignexchange/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/foreignexchange/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.19393e92.chunk.css.map": "/foreignexchange/static/css/main.19393e92.chunk.css.map"
+  }
+}
